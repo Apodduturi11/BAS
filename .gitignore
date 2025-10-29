@@ -1,0 +1,19 @@
+# Build
+mta_archives/
+gen/
+node_modules/
+dist/
+coverage/
+
+# Local creds
+default-env.json
+.default-env.json
+.env
+*.secret
+*.key
+*.pem
+*.p12
+
+# OS/Editor
+.DS_Store
+.vscode/
